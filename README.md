@@ -1,16 +1,29 @@
-# React + Vite
+# 👾 Portfólio Gamificado | Rodrigo Souza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> "Aperte START para iniciar a exploração das minhas habilidades."
 
-Currently, two official plugins are available:
+Este projeto é um portfólio interativo e responsivo construído com a estética de jogos retro-cyberpunk. Desenvolvido para apresentar minha jornada técnica, atributos e missões (projetos) no universo do desenvolvimento front-end.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tecnologias e Arsenal Utilizado
 
-## React Compiler
+- **[React.js](https://react.dev/)**: A base de todo o sistema (Componentização e Hooks).
+- **[Vite](https://vitejs.dev/)**: O motor de renderização (Scaffolding e Build super rápidos).
+- **[Tailwind CSS (v4)](https://tailwindcss.com/)**: O cinto de utilidades para estilização rápida, responsiva e com efeitos cyberpunk (neon, glitch, pulse).
+- **JavaScript (ES6+)**: A linguagem de programação central.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Como iniciar o jogo (Rodando Localmente)
 
-## Expanding the ESLint configuration
+Para clonar e executar este aplicativo, você precisará do [Git](https://git-scm.com) e do [Node.js](https://nodejs.org/en/download/) instalados no seu computador. No seu terminal:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+# Clone este repositório
+$ git clone [https://github.com/RodrigoSouzza/meu_portfolio.git](https://github.com/RodrigoSouzza/meu_portfolio.git)
+
+# Entre no repositório
+$ cd portfolio-rodrigo
+
+# Instale as dependências
+$ npm install
+
+# Inicie o servidor de desenvolvimento
+$ npm run dev
