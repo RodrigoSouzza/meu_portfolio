@@ -55,7 +55,7 @@ export default function SelecaoNivel() {
     return (
         <section className="py-16">
             <h2 className="text-cyan-400 text-xl font-bold mb-10 uppercase tracking-widest flex item-center gap-2">
-                <span>▣</span> SELEÇÃO_DE_NÍVEL
+                <span>⏏</span> SELEÇÃO_DE_NÍVEL
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {projetos.map((proj) => (

@@ -11,7 +11,7 @@ const habilidades = [
 
 function BarraProgresso({ nome, nivel, cor }) {
   return (
-    <div className="mb-6">
+    <div id="melhorias" className="mb-6">
       <div className="flex justify-between items-center mb-2">
         <span className="text-gray-300 text-sm tracking-widest font-mono uppercase">{nome}</span>
         <span className="text-cyan-400 text-sm font-bold">{nivel}</span>

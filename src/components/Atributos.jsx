@@ -11,7 +11,7 @@ function CardEstatistica({titulo, valor, corTexto}) {
 
 export default function Atributos() {
     return (
-        <section className="py-16">
+        <section id="status" className="py-16">
             <h2 className="text-cyan-400 text-xl font-bold mb-8 uppercase tracking-widest flex items-center gap-2">
                 <span>⏏</span> ATRIBUTOS_DO_PERSONAGEM
             </h2>
