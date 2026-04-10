@@ -2,6 +2,8 @@ import Hero from './components/Hero'
 import Atributos from './components/Atributos'
 import Aprimoramentos from './components/Aprimoramentos'
 import SelecaoNivel from './components/SelecaoNivel'
+import DiarioMissoes from './components/DiarioMissoes'
+import ChefeFinal from './components/ChefeFinal'
 
 export default function App(){
   return (
@@ -10,6 +12,8 @@ export default function App(){
       <Atributos />
       <Aprimoramentos/>
       <SelecaoNivel />
+      <DiarioMissoes />
+      <ChefeFinal />
     </div>
   )
 }
