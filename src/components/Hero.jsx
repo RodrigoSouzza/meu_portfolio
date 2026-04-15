@@ -28,9 +28,12 @@ export default function Hero() {
         Desenvolvedor front-end multidisciplinar especializado na construção de interfaces digitais de alta fidelidade dentro do ecossistema web.
       </p>
 
-      <button className="bg-purple-500 hover:bg-purple-400 text-white font-bold py-3 px-8 text-sm tracking-widest transition-colors shadow-[0_0_15px_rgba(168,85,247,0.4)]">
+      <a 
+        href="#status" 
+        className="inline-block bg-purple-500 hover:bg-purple-400 text-white font-bold py-3 px-8 text-sm tracking-widest transition-colors shadow-[0_0_15px_rgba(168,85,247,0.4)]"
+      >
         START GAME ▶
-      </button>
+      </a>
     </section>
   );
 }

@@ -20,7 +20,7 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 $ git clone [https://github.com/RodrigoSouzza/meu_portfolio.git](https://github.com/RodrigoSouzza/meu_portfolio.git)
 
 # Entre no repositório
-$ cd portfolio-rodrigo
+$ cd meu_portfolio
 
 # Instale as dependências
 $ npm install
