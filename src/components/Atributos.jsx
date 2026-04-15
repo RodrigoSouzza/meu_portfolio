@@ -30,7 +30,7 @@ export default function Atributos() {
                 <div>
                     <CardEstatistica
                     titulo = "anos_de_experiência"
-                    valor = "05+"
+                    valor = "03+"
                     corTexto = "text-purple-400"
                     />
                     <CardEstatistica
